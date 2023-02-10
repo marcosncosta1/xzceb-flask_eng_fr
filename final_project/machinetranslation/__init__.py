@@ -1,0 +1,1 @@
+from . import translatorcd /home/project/xzceb-flask_eng_fr/final_project && python3 server.py
