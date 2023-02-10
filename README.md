@@ -1,1 +1,1 @@
-# coding-project-template
+# IBM Applied AI Specialization
